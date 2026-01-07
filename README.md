@@ -38,4 +38,7 @@ Turns "let me check the manual" into real-time answers from technical documents.
 ```bash
    streamlit run app.py
 ```
+5, Screenshot
+
+<img width="1024" height="535" alt="image" src="https://github.com/user-attachments/assets/93f2851b-1652-4209-93da-b3f590a2cf78" />
 
